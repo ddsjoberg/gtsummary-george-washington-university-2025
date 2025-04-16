@@ -5,7 +5,11 @@
 #| cache: false
 library(gtsummary)
 library(tidyverse)
-library(countdown)
+
+declare_it <- function() {
+  cardx::ard_car_anova()
+  broom.helpers::tidy_plus_plus()
+}
 
 
 # fill for font awesome icons
