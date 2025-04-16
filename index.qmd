@@ -52,3 +52,4 @@ award.
 [`r fontawesome::fa("bluesky", fill = "#606060")`](https://bsky.app/profile/ddsjoberg.bsky.social)
 [`r fontawesome::fa("linkedin", fill = "#606060")`](https://www.linkedin.com/in/ddsjoberg/)
 [`r fontawesome::fa("github", fill = "#606060")`](https://github.com/ddsjoberg/)
+
